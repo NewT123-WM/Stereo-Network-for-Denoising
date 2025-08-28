@@ -1,8 +1,8 @@
-# Stereo Network for Seismic Denoising
+# Stereo Network for Seismic Data Denoising
 
 This repository contains the source code for the paper:
 
-**Stereo Network for Seismic Denoising**  
+**Stereo Network for Seismic Data Denoising**  
 [Manuscript under review]
 
 ## Overview
