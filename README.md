@@ -2,7 +2,7 @@
 
 This repository contains the source code for the paper:
 
-**Stereo Network: Stereo Network for Seismic Denoising**  
+**Stereo Network for Seismic Denoising**  
 [Manuscript under review]
 
 ## Overview
